@@ -1,5 +1,11 @@
 wo shi xi huan ni de 
+<<<<<<< HEAD
 少时诵诗书所所所所所所所所所绿
 wo shi xi huan ni de 少时诵诗书所
 少时诵诗书所所所所所所所所所绿所所所所所所所所绿
 qqqqqqqqqqqqqqqqqqqqqwwwwwwwwwwwwwwwwwwwweeeeeeeeeeeee
+=======
+少时诵诗书所
+少时诵诗书所所所所所所所所所绿所所所所所所所所绿
+少年不努力 老大徒伤悲
+>>>>>>> dev
